@@ -3,6 +3,9 @@
 * Cell#302-256-3423
 * Email: BrentC0328@gmail.com
 
+## Summary
+Aspiring Software Engineer eager to continue to develop and showcase skillset learned through completing a Full Stack Java Developer program to contribute to the ever growing tech industry.
+
 ## Skills & Abilities
 * Git
 * GitHub
@@ -14,9 +17,7 @@
 
 
 * Proficient with Microsoft Office 
-* Ability to adapt quickly to changes 
 * Demonstrate problem solving strategies and practical knowledge  
-* Extreme Mathematical Aptitude 
 * Leadership 
 * Fast learner 
 
@@ -46,6 +47,14 @@ Ehlers organization – McDonald’s
 #
 
 ## Education
+* Curriculeon -Full Stack Java Web Developer Course June 2022 - present
+
+    * Spring Boot
+    * Git Bash
+    * GitHub
+    * Version Control Management
+    * Java
+    * JavaScript
 * Wimington University Undergrad  
     * Maj Sociology, New Castle De 19720 – _Deans List 2011_
 * Howard High School of Technology – 
