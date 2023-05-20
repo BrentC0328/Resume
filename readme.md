@@ -10,8 +10,6 @@ Aspiring Software Engineer eager to develop technical and professional skillset 
 * Git
 * GitHub
 * Java & JavaScript fundamentals
-
-
 * Proficient with Microsoft Office 
 * Demonstrate problem solving strategies and practical knowledge  
 * Leadership 
