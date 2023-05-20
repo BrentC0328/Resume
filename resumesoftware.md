@@ -10,9 +10,6 @@
 * GitHub
 * Java
 * JavaScript
-* Spring Boot
-* HTML
-* CSS
 
 * Proficient with Microsoft Office 
 * Expert at maintaining composure and decorum under adverse conditions such as with irate customers

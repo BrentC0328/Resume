@@ -1,19 +1,15 @@
 # Brent Cubbage
 * New Castle, DE
-* Cell#302-256-3423
+* Cell: 302-256-3423
 * Email: BrentC0328@gmail.com
 
 ## Summary
-Aspiring Software Engineer eager to continue to develop and showcase skillset learned through completing a Full Stack Java Developer program to contribute to the ever growing tech industry.
+Aspiring Software Engineer eager to develop technical and professional skillset to enter and contribute to the ever growing tech industry.
 
 ## Skills & Abilities
 * Git
 * GitHub
-* Java
-* JavaScript
-* Spring Boot
-* HTML
-* CSS
+* Java & JavaScript fundamentals
 
 
 * Proficient with Microsoft Office 
@@ -26,7 +22,7 @@ Aspiring Software Engineer eager to continue to develop and showcase skillset le
 ## Professional Experience
 Comcast 
 * CE2 Customer Experience Associate (Billing) – New Castle, DE
-* May 2015 to Present
+* May 2015 to December 2022
     * Accurately calculate and communicate taxes, fees, one-time charges and/or recurring monthly fees
     * Corrected discrepancies on customers’ billing statements and research customer billing inquiries as necessary
     * Utilize multiple systems in a fast-paced high-volume call center
@@ -44,17 +40,10 @@ Ehlers organization – McDonald’s
     * Ensure supplies are properly stocked on store closing/”business as normal” during store opening
     * Responsible for balancing work hours and labor costs
     * Food Safety Certified/Follow strict national food and safety guidelines
-#
+
 
 ## Education
-* Curriculeon -Full Stack Java Web Developer Course June 2022 - present
 
-    * Spring Boot
-    * Git Bash
-    * GitHub
-    * Version Control Management
-    * Java
-    * JavaScript
 * Wimington University Undergrad  
     * Maj Sociology, New Castle De 19720 – _Deans List 2011_
 * Howard High School of Technology – 
