@@ -20,7 +20,7 @@ Aspiring Software Engineer eager to develop technical and professional skillset 
 ## Professional Experience
 Comcast 
 * CE2 Customer Experience Associate (Billing) – New Castle, DE
-* May 2015 to December 2022
+* May 2015 to June 2022
     * Accurately calculate and communicate taxes, fees, one-time charges and/or recurring monthly fees
     * Corrected discrepancies on customers’ billing statements and research customer billing inquiries as necessary
     * Utilize multiple systems in a fast-paced high-volume call center
